@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/CPU/A_CPU_ALU_MD_ALU181A/simulation/qsim
+vALU181A
+Z1 !s110 1558599722
+!i10b 1
+!s100 gJQT^S]N_9kFkELeJQChk1
+I5WBdL?RSnWX3QLgW<KJ`c0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1558599721
+Z4 8ALU81A.vo
+Z5 FALU81A.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1558599722.000000
+Z8 !s107 ALU81A.vo|
+Z9 !s90 -work|work|ALU81A.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u181@a
+vALU181A_vlg_vec_tst
+R1
+!i10b 1
+!s100 f1abJZV0DoN00i;iC[J1;2
+IDlgcYIB<zi2Iao@Y92foR0
+R2
+R0
+w1558599720
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@a@l@u181@a_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 >9z9I`_Wl?Q7]U`NC<i673
+IIc0D^2eB82@GF0G^BNFFc0
+R2
+R0
+R3
+R4
+R5
+L0 7246
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

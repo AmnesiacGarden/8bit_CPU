@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon May 27 15:06:02 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : A_CPU
+Top-level Entity Name : A_CPU
+Family : Cyclone IV E
+Device : EP4CE30F29C8
+Timing Models : Final
+Total logic elements : 867 / 28,848 ( 3 % )
+    Total combinational functions : 840 / 28,848 ( 3 % )
+    Dedicated logic registers : 222 / 28,848 ( < 1 % )
+Total registers : 222
+Total pins : 135 / 533 ( 25 % )
+Total virtual pins : 0
+Total memory bits : 3,584 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

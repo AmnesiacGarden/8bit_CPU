@@ -1,0 +1,38 @@
+module ALU181A (S, A, B, F, M, CN, CO, FZ);
+
+	input [3:0] S;
+	input [7:0] A,B;
+	input M, CN;
+
+	output [7:0] F;
+	output CO, Fz;
+
+	wire [7:0] F;
+	wire [8:0] A9, B9;
+	wire CO;
+
+	reg [8:0] F9;
+	reg FZ;
+
+	assign A9 = {1'b0,A};
+	assign B9 = {1'b0,B};
+
+always @(M or CN or A9 or B9 or S) begin
+	
+	case (S)
+	4'b0000 : if (M==0) F9<=A9+CN ;                                 else F9<=~A9 ;
+	4'b0001 : if (M==0) F9<=(A9|B9) + CN ;                          else F9<=~(A9|B9) ;
+	4'b0010 : if (M==0) F9<=(A9|(~B9)) + CN ;                       else F9<=(~A9)&B9 ;
+	4'b0011 : if (M==0) F9<=9'b000000000-Cn ;                       else F9<=9'b000000000 ;
+	4'b0100 : if (M==0) F9<=A9+(A9 & ~B9)+CN ;                      else F9<= ;
+	4'b0000 : if (M==0) F9<=(A9|B9) ;                                    else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;
+	4'b0000 : if (M==0) F9<= ;                                      else F9<= ;

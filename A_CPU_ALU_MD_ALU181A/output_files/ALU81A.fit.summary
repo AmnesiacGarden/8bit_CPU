@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed May 22 18:51:33 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : ALU81A
+Top-level Entity Name : ALU181A
+Family : Cyclone IV E
+Device : EP4CE30F29C8
+Timing Models : Final
+Total logic elements : 362 / 28,848 ( 1 % )
+    Total combinational functions : 362 / 28,848 ( 1 % )
+    Dedicated logic registers : 0 / 28,848 ( 0 % )
+Total registers : 0
+Total pins : 32 / 533 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

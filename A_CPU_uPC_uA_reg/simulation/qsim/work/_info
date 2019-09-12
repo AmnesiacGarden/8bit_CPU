@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/CPU/A_CPU_uPC_uA_reg/simulation/qsim
+vhard_block
+Z1 !s110 1558596041
+!i10b 1
+!s100 8k6_z;H7^<jnl2;d8eQ^R0
+I_UjR6znC1]zSzn>e?OVkP3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1558596040
+Z4 8uA_reg.vo
+Z5 FuA_reg.vo
+L0 902
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1558596041.000000
+Z8 !s107 uA_reg.vo|
+Z9 !s90 -work|work|uA_reg.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vuA_reg
+R1
+!i10b 1
+!s100 6lhGbeW3?CNOEjee`6L0K0
+IR8J3C5HfRn7KzNlO6hScz1
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nu@a_reg
+vuA_reg_vlg_vec_tst
+R1
+!i10b 1
+!s100 S:8i8I6:84FK1T0B<1Som1
+ICP==HQe^cMJD@e[@21@Oj0
+R2
+R0
+w1558596039
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+nu@a_reg_vlg_vec_tst
