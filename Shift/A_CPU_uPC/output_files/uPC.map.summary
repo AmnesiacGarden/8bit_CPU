@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat May 25 14:28:11 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : uPC
+Top-level Entity Name : uPC
+Family : Cyclone IV E
+Total logic elements : 290
+    Total combinational functions : 258
+    Dedicated logic registers : 145
+Total registers : 145
+Total pins : 60
+Total virtual pins : 0
+Total memory bits : 1,536
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

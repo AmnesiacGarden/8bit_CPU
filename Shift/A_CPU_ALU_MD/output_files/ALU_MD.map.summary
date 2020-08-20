@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon May 27 16:23:03 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : ALU_MD
+Top-level Entity Name : ALU_MD
+Family : Cyclone IV E
+Total logic elements : 495
+    Total combinational functions : 495
+    Dedicated logic registers : 10
+Total registers : 10
+Total pins : 96
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

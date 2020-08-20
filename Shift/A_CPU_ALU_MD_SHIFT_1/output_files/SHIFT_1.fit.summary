@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat May 25 18:28:26 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : SHIFT_1
+Top-level Entity Name : SHIFT_1
+Family : Cyclone IV E
+Device : EP4CE30F29C8
+Timing Models : Final
+Total logic elements : 18 / 28,848 ( < 1 % )
+    Total combinational functions : 18 / 28,848 ( < 1 % )
+    Dedicated logic registers : 10 / 28,848 ( < 1 % )
+Total registers : 10
+Total pins : 26 / 533 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

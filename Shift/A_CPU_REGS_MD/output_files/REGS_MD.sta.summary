@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'DOUT_B'
+Slack : -3.026
+TNS   : -23.103
+
+Type  : Slow 1200mV 85C Model Setup 'LDIR'
+Slack : -2.930
+TNS   : -22.449
+
+Type  : Slow 1200mV 85C Model Setup 'LDAR'
+Slack : -2.744
+TNS   : -20.995
+
+Type  : Slow 1200mV 85C Model Setup 'LDPC'
+Slack : -1.703
+TNS   : -10.960
+
+Type  : Slow 1200mV 85C Model Hold 'LDPC'
+Slack : 0.692
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LDAR'
+Slack : 1.822
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LDIR'
+Slack : 2.058
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DOUT_B'
+Slack : 2.090
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LDPC'
+Slack : -3.000
+TNS   : -14.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DOUT_B'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LDAR'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LDIR'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'DOUT_B'
+Slack : -2.939
+TNS   : -22.605
+
+Type  : Slow 1200mV 0C Model Setup 'LDIR'
+Slack : -2.899
+TNS   : -21.992
+
+Type  : Slow 1200mV 0C Model Setup 'LDAR'
+Slack : -2.703
+TNS   : -20.804
+
+Type  : Slow 1200mV 0C Model Setup 'LDPC'
+Slack : -1.568
+TNS   : -9.797
+
+Type  : Slow 1200mV 0C Model Hold 'LDPC'
+Slack : 0.627
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LDAR'
+Slack : 1.848
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LDIR'
+Slack : 2.043
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DOUT_B'
+Slack : 2.078
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LDPC'
+Slack : -3.000
+TNS   : -15.120
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DOUT_B'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LDAR'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LDIR'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'DOUT_B'
+Slack : -0.551
+TNS   : -3.892
+
+Type  : Fast 1200mV 0C Model Setup 'LDIR'
+Slack : -0.517
+TNS   : -3.561
+
+Type  : Fast 1200mV 0C Model Setup 'LDAR'
+Slack : -0.411
+TNS   : -2.729
+
+Type  : Fast 1200mV 0C Model Setup 'LDPC'
+Slack : -0.132
+TNS   : -0.313
+
+Type  : Fast 1200mV 0C Model Hold 'LDPC'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LDAR'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LDIR'
+Slack : 0.598
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DOUT_B'
+Slack : 0.616
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LDPC'
+Slack : -3.000
+TNS   : -12.096
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LDAR'
+Slack : -3.000
+TNS   : -3.012
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DOUT_B'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LDIR'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------

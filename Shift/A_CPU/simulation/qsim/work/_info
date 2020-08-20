@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/CPU/A_CPU/simulation/qsim
+vA_CPU
+Z0 !s110 1558945670
+!i10b 1
+!s100 <Q@95emPiYhe4?X:JCPDJ2
+IoS]]mkV=`AB@H>HfgC0jU3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/ShiftCPU/A_CPU/simulation/qsim
+w1558945668
+8A_CPU.vo
+FA_CPU.vo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1558945669.000000
+!s107 A_CPU.vo|
+!s90 -work|work|A_CPU.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a_@c@p@u
+vA_CPU_vlg_vec_tst
+R0
+!i10b 1
+!s100 kh4NJ9l]YTkRPiOo]=[bV3
+IDnlSNnEg?YEKlN@d9718b2
+R1
+R2
+w1558945667
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1558945670.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+R5
+n@a_@c@p@u_vlg_vec_tst

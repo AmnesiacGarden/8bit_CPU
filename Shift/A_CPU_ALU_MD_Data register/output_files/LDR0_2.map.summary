@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed May 22 18:48:36 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : LDR0_2
+Top-level Entity Name : LDR0_2
+Family : Cyclone IV E
+Total logic elements : 10
+    Total combinational functions : 10
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

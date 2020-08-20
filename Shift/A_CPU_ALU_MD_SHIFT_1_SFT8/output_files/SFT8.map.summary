@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat May 25 18:03:59 2019
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : SFT8
+Top-level Entity Name : SFT8
+Family : Cyclone IV E
+Total logic elements : 16
+    Total combinational functions : 16
+    Dedicated logic registers : 9
+Total registers : 9
+Total pins : 22
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

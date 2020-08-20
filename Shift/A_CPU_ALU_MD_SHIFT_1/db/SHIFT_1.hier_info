@@ -1,0 +1,93 @@
+|SHIFT_1
+CO <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+RST => inst5.IN0
+T3 => inst2.IN0
+M[18] => inst.IN0
+M[19] => inst.IN1
+M[19] => 21mux:inst4.S
+M[19] => SFT8:inst1.M
+M[20] => SFT8:inst1.S[0]
+M[21] => SFT8:inst1.S[1]
+Ci_A => 21mux:inst4.B
+T2 => SFT8:inst1.CLK
+Ci => SFT8:inst1.C0
+D[0] => SFT8:inst1.D[0]
+D[1] => SFT8:inst1.D[1]
+D[2] => SFT8:inst1.D[2]
+D[3] => SFT8:inst1.D[3]
+D[4] => SFT8:inst1.D[4]
+D[5] => SFT8:inst1.D[5]
+D[6] => SFT8:inst1.D[6]
+D[7] => SFT8:inst1.D[7]
+Q[0] <= SFT8:inst1.QB[0]
+Q[1] <= SFT8:inst1.QB[1]
+Q[2] <= SFT8:inst1.QB[2]
+Q[3] <= SFT8:inst1.QB[3]
+Q[4] <= SFT8:inst1.QB[4]
+Q[5] <= SFT8:inst1.QB[5]
+Q[6] <= SFT8:inst1.QB[6]
+Q[7] <= SFT8:inst1.QB[7]
+
+
+|SHIFT_1|21mux:inst4
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|SHIFT_1|SFT8:inst1
+CLK => CY.CLK
+CLK => REG[0].CLK
+CLK => REG[1].CLK
+CLK => REG[2].CLK
+CLK => REG[3].CLK
+CLK => REG[4].CLK
+CLK => REG[5].CLK
+CLK => REG[6].CLK
+CLK => REG[7].CLK
+M => Mux0.IN3
+M => Mux1.IN1
+M => Mux2.IN1
+M => Mux3.IN1
+M => Mux4.IN1
+M => Mux5.IN1
+M => Mux6.IN1
+M => Mux7.IN3
+M => Mux8.IN0
+C0 => Mux0.IN0
+C0 => Mux7.IN0
+S[0] => Mux0.IN5
+S[0] => Mux7.IN5
+S[0] => Mux8.IN2
+S[1] => Mux0.IN4
+S[1] => Mux1.IN2
+S[1] => Mux2.IN2
+S[1] => Mux3.IN2
+S[1] => Mux4.IN2
+S[1] => Mux5.IN2
+S[1] => Mux6.IN2
+S[1] => Mux7.IN4
+S[1] => Mux8.IN1
+D[0] => Mux7.IN1
+D[0] => Mux7.IN2
+D[1] => Mux6.IN0
+D[2] => Mux5.IN0
+D[3] => Mux4.IN0
+D[4] => Mux3.IN0
+D[5] => Mux2.IN0
+D[6] => Mux1.IN0
+D[7] => Mux0.IN1
+D[7] => Mux0.IN2
+QB[0] <= REG[0].DB_MAX_OUTPUT_PORT_TYPE
+QB[1] <= REG[1].DB_MAX_OUTPUT_PORT_TYPE
+QB[2] <= REG[2].DB_MAX_OUTPUT_PORT_TYPE
+QB[3] <= REG[3].DB_MAX_OUTPUT_PORT_TYPE
+QB[4] <= REG[4].DB_MAX_OUTPUT_PORT_TYPE
+QB[5] <= REG[5].DB_MAX_OUTPUT_PORT_TYPE
+QB[6] <= REG[6].DB_MAX_OUTPUT_PORT_TYPE
+QB[7] <= REG[7].DB_MAX_OUTPUT_PORT_TYPE
+CN <= CY.DB_MAX_OUTPUT_PORT_TYPE
+
+
