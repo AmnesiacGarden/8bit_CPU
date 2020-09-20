@@ -1,6 +1,9 @@
 # 单周期8位CPU设计
 ```
-Normal ： 单周期CPU
-Shift  ： 单周期带移位CPU
+————目录
+    |__Normal ： 单周期CPU
+    |__Shift  ： 单周期带移位CPU
+    |__README.md ：本文档
+  
 工程参考来源于《现代计算机组成原理（第二版）》
 ```
