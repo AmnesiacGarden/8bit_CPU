@@ -1,3 +1,4 @@
+[![Page Views Count](https://badges.toozhao.com/badges/01F20CTAMCFCG19SXJ7Z5FGHMD/green.svg)](https://badges.toozhao.com/stats/01F20CTAMCFCG19SXJ7Z5FGHMD "Get your own page views count badge on badges.toozhao.com")
 # 单周期8位CPU设计
 ```
 ————目录
